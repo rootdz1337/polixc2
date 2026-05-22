@@ -18,7 +18,7 @@ HTML_TEMPLATE = '''
 <!DOCTYPE html>
 <html>
 <head>
-    <title>El Matador C2 - Control Panel</title>
+    <title>Polix C2 - Control Panel</title>
     <style>
         * {
             margin: 0;
@@ -460,7 +460,7 @@ def command_history(agent_id):
 
 def main():
     print("=" * 60)
-    print("  El Matador C2 - Web GUI")
+    print("  Polix C2 - Web GUI")
     print("=" * 60)
     print(f"[*] Connecting to C2 server: {C2_SERVER}")
     print(f"[*] Starting web interface on http://localhost:5000")
