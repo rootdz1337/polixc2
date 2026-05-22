@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-El Matador C2 Server - Complete Implementation
+Polix C2 Server - Complete Implementation
 Run this on your controller machine
 """
 
